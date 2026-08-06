@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\projetocadastromvc\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\projetocadastromvc\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|solutionrelative:views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\projetocadastromvc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\projetocadastromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8AFF5BD-A039-4C09-9CD9-CF5E66CAF94C}|ProjetoCadastroMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,67 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-30T17:17:31.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Controllers\\FuncionarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Controllers\\FuncionarioController.cs",
-              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T16:48:11.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Models\\Funcionario.cs",
-              "RelativeToolTip": "Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T16:34:48.427Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-06T17:11:59.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Views\\Funcionario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Funcionario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\ProjetoCadastroMVC\\Views\\Funcionario\\Index.cshtml",
-              "RelativeToolTip": "Views\\Funcionario\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-30T16:27:38.494Z",
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T16:54:49.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T17:15:22.213Z",
+              "EditorCaption": ""
             }
           ]
         }

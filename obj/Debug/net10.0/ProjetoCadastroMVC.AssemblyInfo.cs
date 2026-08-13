@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoCadastroMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9fd443048b8fb560508b0cecf17a213cfabd400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+575105870904af16ed86713262e276234b4d057d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoCadastroMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoCadastroMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

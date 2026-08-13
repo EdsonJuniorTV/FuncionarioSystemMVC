@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\repository\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:repository\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,44 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-06T17:11:59.864Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Views\\Funcionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Views\\Funcionario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Funcionario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-13T17:25:11.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Data\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Data\\DatabaseContext.cs",
-              "RelativeToolTip": "Data\\DatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T16:54:49.37Z",
+              "WhenOpened": "2026-08-13T17:19:10.482Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "FuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\FuncionarioRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\FuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\FuncionarioRepository.cs",
+              "RelativeToolTip": "Repository\\FuncionarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T17:15:22.213Z",
+              "WhenOpened": "2026-08-13T17:05:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\IFuncionarioRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IFuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\IFuncionarioRepository.cs",
+              "RelativeToolTip": "Repository\\IFuncionarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:53:58.77Z",
               "EditorCaption": ""
             }
           ]

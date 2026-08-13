@@ -285,3 +285,4 @@ C:\Users\aluno\Desktop\FuncionarioSystemMVC\obj\Debug\net10.0\refint\ProjetoCada
 C:\Users\aluno\Desktop\FuncionarioSystemMVC\obj\Debug\net10.0\ProjetoCadastroMVC.pdb
 C:\Users\aluno\Desktop\FuncionarioSystemMVC\obj\Debug\net10.0\ProjetoCadastroMVC.genruntimeconfig.cache
 C:\Users\aluno\Desktop\FuncionarioSystemMVC\obj\Debug\net10.0\ref\ProjetoCadastroMVC.dll
+C:\Users\aluno\Desktop\FuncionarioSystemMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

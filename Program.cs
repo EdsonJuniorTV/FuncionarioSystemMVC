@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoCadastroMVC.Data;
+using ProjetoCadastroMVC.Repository;
 using System.Net.WebSockets;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,8 @@ builder.Services.AddControllersWithViews();
 var connectionString = builder.Configuration.GetConnectionString("Database");
 
 builder.Services.AddDbContext<DatabaseContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+builder.Services.AddScoped<IFuncionarioRepository, FuncionarioRepository>();
 
 var app = builder.Build();
 

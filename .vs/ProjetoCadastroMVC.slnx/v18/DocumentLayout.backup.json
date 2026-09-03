@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:views\\funcionario\\criareditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\repository\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:repository\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|c:\\users\\aluno\\desktop\\funcionariosystemmvc\\repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2857B3-8DAD-E768-8938-870BA1604B8C}|ProjetoCadastroMVC.csproj|solutionrelative:repository\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T17:30:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FuncionarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\FuncionarioRepository.cs",
               "RelativeDocumentMoniker": "Repository\\FuncionarioRepository.cs",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\FuncionarioRepository.cs",
               "RelativeToolTip": "Repository\\FuncionarioRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T16:45:10.605Z",
               "EditorCaption": ""
@@ -53,33 +70,33 @@
               "RelativeDocumentMoniker": "Repository\\IFuncionarioRepository.cs",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Repository\\IFuncionarioRepository.cs",
               "RelativeToolTip": "Repository\\IFuncionarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T16:43:34.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Views\\Funcionario\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Funcionario\\Index.cshtml",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Views\\Funcionario\\Index.cshtml",
               "RelativeToolTip": "Views\\Funcionario\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAACjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-20T17:29:19.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "Controllers\\FuncionarioController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvy0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T16:44:48.877Z",
               "EditorCaption": ""
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "Views\\Funcionario\\CriarEditar.cshtml",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\FuncionarioSystemMVC\\Views\\Funcionario\\CriarEditar.cshtml",
               "RelativeToolTip": "Views\\Funcionario\\CriarEditar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-20T16:36:42.995Z",
               "EditorCaption": ""

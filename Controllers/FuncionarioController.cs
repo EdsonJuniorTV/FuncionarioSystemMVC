@@ -25,16 +25,24 @@ namespace ProjetoCadastroMVC.Controllers
             return View("~/Views/Funcionario/CriarEditar.cshtml");
         }
 
-        public IActionResult Editar()
+        public IActionResult Editar(int id)
         {
+            Funcionario funcionario = funcionarioRepository.BuscarPorId(id);
             ViewBag.TipoTela = "Editar";
-            return View("~/Views/Funcionario/CriarEditar.cshtml");
+            return View("~/Views/Funcionario/CriarEditar.cshtml", funcionario);
         }
 
         [HttpPost]
         public IActionResult Criar(Funcionario funcionario)
         {
             funcionarioRepository.Adicionar(funcionario);
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Editar(Funcionario funcionario)
+        {
+            funcionarioRepository.Atualizar(funcionario);
             return RedirectToAction("Index");
         }
     }

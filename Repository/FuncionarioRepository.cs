@@ -23,5 +23,30 @@ namespace ProjetoCadastroMVC.Repository
             dbContext.SaveChanges();
             return funcionario;
         }
+
+        public Funcionario BuscarPorId(int id)
+        {   
+            return dbContext.Funcionarios.FirstOrDefault(x => x.Id == id);
+        }
+
+        public Funcionario Atualizar(Funcionario funcionario) 
+        {
+            Funcionario funcionarioBuscado = BuscarPorId(funcionario.Id);
+
+            if (funcionarioBuscado == null)
+            {
+                throw new Exception("Houve um problema ao atualizar!");
+            }
+
+            funcionarioBuscado.Nome = funcionario.Nome;
+            funcionarioBuscado.Cargo = funcionario.Cargo;
+            funcionarioBuscado.CPF = funcionario.CPF;
+            funcionarioBuscado.Departamento = funcionario.Departamento;
+            funcionarioBuscado.Salario = funcionario.Salario;
+
+            dbContext.Funcionarios.Update(funcionarioBuscado);
+            dbContext.SaveChanges();
+            return funcionarioBuscado;
+        }
     }
 }
